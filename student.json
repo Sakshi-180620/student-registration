@@ -1,0 +1,37 @@
+[
+  {
+    "name": "shipra ",
+    "email": "shipra123@gmail.com",
+    "course": "b.tech"
+  },
+  {
+    "name": "Rohit",
+    "email": "rohit23@gmail.com",
+    "password": "987654"
+  },
+  {
+    "name": "Meena Kumari",
+    "email": "meena23@gmail.com",
+    "password": "200618"
+  },
+  {
+    "name": "sunidhi sharma",
+    "email": "sunidhi@gmail.com",
+    "password": "665544"
+  },
+  {
+    "name": "Preeti Sharma",
+    "email": "sharma@gmail.com",
+    "password": "112233"
+  },
+  {
+    "name": "Priyansh Sharma",
+    "email": "priyansh@gmail.com",
+    "password": "332244"
+  },
+  {
+    "name": "karan",
+    "email": "karan56@gmail.com",
+    "password": "12345678"
+  }
+]
